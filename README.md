@@ -5,7 +5,7 @@ Detección de objetos y segmentación
 
 ## Inferencia YOLO World
 
-La parte parte para instalar las dependencias es muy lento 😒
+La parte para instalar las dependencias es muy lento 😒, es más estuve una hora y nada.
 
 ## Fine-tuning YOLO World
 
