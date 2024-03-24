@@ -11,8 +11,9 @@ La parte parte para instalar las dependencias es muy lento 😒
 
 ### Requerimientos para el Fine-tuning
 
-|  |  |
+| GPU | Epoch |
 |:-:|:-:|
+| 1 a 8 GB | 80 o menos |
 
 ### 1. Preparación de los datos
 
