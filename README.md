@@ -22,3 +22,8 @@ La parte para instalar las dependencias es muy lento 😒, es más estuve una ho
 
 
 # SAM
+
+# Grounding
+| [PAper groundingDino](https://arxiv.org/pdf/2303.05499.pdf) |
+
+* Instalar los paquetes tarda aprox 19 minutos
