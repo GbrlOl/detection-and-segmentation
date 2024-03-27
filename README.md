@@ -27,3 +27,4 @@ La parte para instalar las dependencias es muy lento 😒, es más estuve una ho
 | [PAper groundingDino](https://arxiv.org/pdf/2303.05499.pdf) |
 
 * Instalar los paquetes tarda aprox 19 minutos
+* Ocupa 1.8 GB de GPU en inferencia
